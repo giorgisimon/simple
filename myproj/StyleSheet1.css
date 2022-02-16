@@ -1,0 +1,21 @@
+﻿body {
+    background: pink;
+    font-family: sans-serif;
+    color: purple;
+    text-align: center;
+}
+
+h1, h2, p {
+    font-size: 2em;
+    text-color: purple;
+}
+
+button {
+    padding: 20px 10px;
+    margin: 20px 10px;
+    background: purple;
+    color: pink;
+    border: solid 2px white;
+    font-size: 1.2em;
+    width: 120px;
+}
